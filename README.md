@@ -2,5 +2,4 @@
 This is my first GIP Repository
 <br>
 Author - Sneha Sharma
-
-Java Full Stack with DSA
+Course - Java Full Stack with DSA
